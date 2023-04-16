@@ -10,6 +10,8 @@ public class Main {
 
         Masuk user1 = new Masuk();
         do {
+
+
             Scanner scanner = new Scanner(System.in);
             System.out.println("......... MASUK .........");
             System.out.println("| Masukkan username : |");user = scanner.nextLine();
@@ -26,6 +28,6 @@ public class Main {
             }else{
                 System.out.println("Username/Password anda salah!!");
             }
-        }while (check == 2);
+        }   while (check == 2);
     }
 }
