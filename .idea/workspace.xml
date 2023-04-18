@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ce83a17-95fd-4fe7-97ba-b13feeab9cf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tokoku/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/latihan 1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/latihan 1/Tokoku/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/latihan 1/Tokoku/Masuk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/latihan 1/main1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tokoku/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tokoku/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tokoku/Masuk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tokoku/Masuk.java" afterDir="false" />
+    <list default="true" id="a1b35799-a7bc-497f-b806-1e417a8182f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/RESTORANT-SEDERHANA/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RESTORANT-SEDERHANA/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Masuk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Masuk.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +27,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Mz5bn5eBJjRmLFGZhhQ1yZMim9" />
+  <component name="ProjectId" id="2ObGTm4Bm9ACWFSOUUBwhGxvnRj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,34 +35,36 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PBO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="PBO" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4ce83a17-95fd-4fe7-97ba-b13feeab9cf6" name="Changes" comment="" />
-      <created>1678757646121</created>
+      <changelist id="a1b35799-a7bc-497f-b806-1e417a8182f5" name="Changes" comment="" />
+      <created>1681821878703</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678757646121</updated>
+      <updated>1681821878703</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main1.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main1.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
